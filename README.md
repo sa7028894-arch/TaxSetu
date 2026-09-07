@@ -1,4 +1,4 @@
-\# TaxSetu
+# TaxSetu
 
 
 
@@ -12,7 +12,7 @@ TaxSetu is a multi-agent AI system that automates GST/TDS tax compliance for mic
 
 
 
-\## Problem
+\\## Problem
 
 Micro and small enterprises often lack the resources to navigate GST filings, TDS deductions, and input credit reconciliation. Manual bookkeeping and fragmented spreadsheets lead to missed deadlines, calculation errors, and lost input tax credit. Existing accounting software is typically too expensive, complex, or generic for businesses with no dedicated finance team.
 
