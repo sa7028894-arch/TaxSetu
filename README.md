@@ -1,7 +1,5 @@
 # TaxSetu
 
-
-
 \*\*AI Autonomous Tax Compliance Platform for Micro-Enterprises\*\*
 
 
@@ -19,8 +17,6 @@ Micro and small enterprises often lack the resources to navigate GST filings, TD
 
 
 \## Architecture
-
-
 
 TaxSetu is built on a decentralized multi-agent pipeline:
 
@@ -43,8 +39,6 @@ TaxSetu is built on a decentralized multi-agent pipeline:
 
 
 \## Project Structure
-
-
 
 TaxSetu/
 
